@@ -2,6 +2,6 @@
 Stone(Rock) Paper Scissors game made with Python
 
 # TODO List
-- make ui[]
+- make ui[x]
 - soon[]
 - soon[]
