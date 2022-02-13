@@ -8,5 +8,4 @@ scissors=choice[2]
 print("Hello, if you want exit click the.
 1 - Play Game
 2 - Information Game
-3 - Exit
-")
+3 - Exit")
